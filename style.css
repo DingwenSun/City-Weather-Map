@@ -29,7 +29,7 @@ p {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  background-color: red;
+  background-color: black;
   background-size: cover;
   text-align: center;
   color: white;
@@ -45,6 +45,7 @@ p {
   background-size: cover;
   text-align: center;
   color: #e1ded7;
+  border-radius: 5px;
 }
 
 .cold {
@@ -56,6 +57,7 @@ p {
   background-size: cover;
   text-align: center;
   color: #e1ded7;
+  border-radius: 5px;
 }
 
 .cool {
@@ -67,6 +69,7 @@ p {
   background-size: cover;
   text-align: center;
   color: #e1ded7;
+  border-radius: 5px;
 }
 
 .warm {
@@ -78,6 +81,7 @@ p {
   background-size: cover;
   text-align: center;
   color: #e1ded7;
+  border-radius: 5px;
 }
 
 .hot {
@@ -89,6 +93,7 @@ p {
   background-size: cover;
   text-align: center;
   color: #e1ded7;
+  border-radius: 5px;
 }
 
 .burn {
@@ -96,8 +101,9 @@ p {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  background-color: rgb(162,61,82);
+  background-color: rgb(223,28,68);
   background-size: cover;
   text-align: center;
   color: #e1ded7;
+  border-radius: 5px;
 }
